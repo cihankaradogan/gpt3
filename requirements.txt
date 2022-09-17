@@ -1,3 +1,2 @@
-gradio==1.7.7
-request
+gradio
 openai
