@@ -1,0 +1,4 @@
+gradio
+numpy
+request
+openai
